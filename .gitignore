@@ -1,0 +1,40 @@
+# 其他项目文件（非 VisiSkin-Agent）
+biwi_reid.py
+train_log.txt
+log/
+产出/
+材料/
+
+# 二进制文件
+*.docx
+*.pth
+*.bin
+*.onnx
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# 数据集和模型权重（体积过大）
+data/raw/
+data/paired_dataset/
+checkpoints/
+
+# 实验追踪
+wandb/
+runs/
+
+# 密钥与本地配置
+.env
+.env.*
+.mcp.json
+.claude/
+
+# 系统
+.DS_Store
+Thumbs.db
+*.log
