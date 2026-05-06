@@ -1,0 +1,41 @@
+# VisiSkin-Agent 全局配置模板
+# 路径使用绝对路径，避免相对路径引起的混乱
+
+# ── 数据路径 ──────────────────────────────────────────────────────────
+data:
+  raw_dir: D:/YJ-Agent/data/raw              # 原始数据集根目录（ISIC/DermNet/FitzPatrick17k）
+  paired_dir: D:/YJ-Agent/data/paired_dataset  # 配对数据集（阶段二生成）
+  labels_csv: D:/YJ-Agent/data/quality_labels.csv
+  num_workers: 4
+  pin_memory: true
+
+# ── 模型 ──────────────────────────────────────────────────────────────
+model:
+  backbone: mobilenetv3_large_100            # timm 模型名，阶段三确定后更新
+  pretrained: true
+  num_quality_dims: 5                        # 清晰度/光照/完整度/色温/对比度
+
+# ── 训练超参 ──────────────────────────────────────────────────────────
+train:
+  epochs: 50
+  batch_size: 128
+  lr: 1.0e-3
+  weight_decay: 1.0e-4
+  seed: 42
+  amp: true                                  # 自动混合精度 FP16
+
+# ── 路径：输出 ────────────────────────────────────────────────────────
+output:
+  checkpoint_dir: D:/YJ-Agent/checkpoints
+  log_dir: D:/YJ-Agent/log
+
+# ── 实验追踪 ──────────────────────────────────────────────────────────
+wandb:
+  project: visiskin-agent
+  entity: null                               # 留空则用默认账号
+  mode: online                               # online / offline / disabled
+
+# ── 设备 ──────────────────────────────────────────────────────────────
+device:
+  cuda: true
+  gpu_id: 0

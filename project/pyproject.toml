@@ -1,0 +1,57 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.backends.legacy:build"
+
+[project]
+name = "visiskin-agent"
+version = "0.1.0"
+description = "Visual quality-guided skin lesion triage agent"
+requires-python = ">=3.11"
+dependencies = [
+    # 深度学习
+    "torch>=2.3",
+    "torchvision>=0.18",
+    "torchaudio>=2.3",
+    "timm>=1.0",
+    # 实验追踪
+    "wandb>=0.17",
+    # 配置管理
+    "omegaconf>=2.3",
+    # 工具
+    "tqdm>=4.66",
+    "loguru>=0.7",
+]
+
+[project.optional-dependencies]
+data = [
+    "kaggle",
+    "Pillow>=10.0",
+    "opencv-python>=4.9",
+    "albumentations>=1.4",
+    "scikit-image>=0.22",
+    "piq>=0.8",
+    "pandas>=2.2",
+]
+dev = [
+    "pytest>=8.0",
+    "pytest-timeout>=2.3",
+    "ruff>=0.4",
+]
+
+# ── ruff ──────────────────────────────────────────────────────────────
+[tool.ruff]
+line-length = 120
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I"]   # pycodestyle + pyflakes + isort
+ignore = ["E501"]           # 长行由 line-length 控制，不重复报
+
+[tool.ruff.lint.isort]
+known-first-party = ["models", "data", "agent", "benchmark"]
+
+# ── pytest ────────────────────────────────────────────────────────────
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+timeout = 60
+addopts = "-v"
