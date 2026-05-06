@@ -5,15 +5,9 @@ import subprocess
 import sys
 from pathlib import Path
 
-DATASETS = {
-    "isic2020": "nroman/skin-cancer-mnist-ham10000",  # HAM10000 包含 2020 格式
-    "isic2020_v2": "mnassrib/melanoma-skin-cancer-dataset-of-10000-images",
-    # 主要 ISIC 2020 比赛数据集
-    "isic2020_challenge": "cdeotte/jpeg-melanoma-256x256",
-}
-
-# 优先使用的 ISIC 2020 竞赛官方数据集
-ISIC2020_DATASET = "cdeotte/jpeg-melanoma-256x256"
+# 实际使用：256x256 预缩放版本，624MB，33126 张
+# 原始路径：train-image/image/*.jpg
+ISIC2020_DATASET = "nischaydnk/isic-2020-jpg-256x256-resized"
 
 
 def check_kaggle_token() -> bool:
