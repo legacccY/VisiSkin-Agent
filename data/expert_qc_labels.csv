@@ -1,0 +1,488 @@
+image_path,md5hash,fitzpatrick_scale,label,qc_raw,expert_quality
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\d1fb87ee7ee50f997cd6497dd90d6bbb.jpg,d1fb87ee7ee50f997cd6497dd90d6bbb,4,acne vulgaris,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\31749f92677e70999c28fe49fbc6dafc.jpg,31749f92677e70999c28fe49fbc6dafc,2,eczema,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\6d2fb27bbaf2691ea85fa2ad7f334060.jpg,6d2fb27bbaf2691ea85fa2ad7f334060,2,basal cell carcinoma morpheiform,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\56e697186c86b0eb09f19021ebe4b9a8.jpg,56e697186c86b0eb09f19021ebe4b9a8,2,allergic contact dermatitis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\b8bf2ccc8ceeb97d4bc30c16d536834f.jpg,b8bf2ccc8ceeb97d4bc30c16d536834f,2,neurofibromatosis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\9838b6548e7842a1c228e9548a32099c.jpg,9838b6548e7842a1c228e9548a32099c,2,basal cell carcinoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\2899a5ff1edde837ee2075d5e4384f97.jpg,2899a5ff1edde837ee2075d5e4384f97,1,neutrophilic dermatoses,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\c699fbf373baa0193e9382d1a94d105e.jpg,c699fbf373baa0193e9382d1a94d105e,1,keratosis pilaris,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\8bb00e1c90499ee2035478cda18c7127.jpg,8bb00e1c90499ee2035478cda18c7127,2,sarcoidosis,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\ecb12338c649b55a198e5243157b0ec1.jpg,ecb12338c649b55a198e5243157b0ec1,2,allergic contact dermatitis,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\a41731c6ccf0d65c7fdd468cbc6f2403.jpg,a41731c6ccf0d65c7fdd468cbc6f2403,1,scleroderma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\9e8903b8eeb2a13655efe26bdb67d913.jpg,9e8903b8eeb2a13655efe26bdb67d913,1,pityriasis rosea,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\c51aef6119a7ac874c1aa2acf28653a2.jpg,c51aef6119a7ac874c1aa2acf28653a2,-1,stasis edema,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\b773d5aef99e316c26f689f9fe296702.jpg,b773d5aef99e316c26f689f9fe296702,6,acanthosis nigricans,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\f03ce53fa8408b8402c303b02f15b501.jpg,f03ce53fa8408b8402c303b02f15b501,4,erythema multiforme,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\fd29fb706c41cc9552b40a057024f460.jpg,fd29fb706c41cc9552b40a057024f460,2,nevocytic nevus,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\8a39410ce1ae1515d3a3d4fb15df5685.jpg,8a39410ce1ae1515d3a3d4fb15df5685,6,lichen amyloidosis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\85dc916c976e7c6b6e1f2dd123044e77.jpg,85dc916c976e7c6b6e1f2dd123044e77,6,pityriasis rubra pilaris,2 Characteristic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\107946de4ffb06cf163ddb597224c8af.jpg,107946de4ffb06cf163ddb597224c8af,3,sun damaged skin,2 Characteristic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\f754486c71f2460ac340c0577e8958ba.jpg,f754486c71f2460ac340c0577e8958ba,4,hailey hailey disease,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\17efdfe36901539abb7a0d85f2e8c3ab.jpg,17efdfe36901539abb7a0d85f2e8c3ab,2,rosacea,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\1a6a0f322da502480484eebf5210f848.jpg,1a6a0f322da502480484eebf5210f848,1,nevus sebaceous of jadassohn,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\141851d9a66424bfc2dde0322a6760d8.jpg,141851d9a66424bfc2dde0322a6760d8,1,allergic contact dermatitis,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\b7ac5e40aa538bb0b260e25dec41aedc.jpg,b7ac5e40aa538bb0b260e25dec41aedc,4,ehlers danlos syndrome,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\e1e8d97b7a11b5907609a38531740a5c.jpg,e1e8d97b7a11b5907609a38531740a5c,1,sarcoidosis,2 Characteristic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\3a6a24ba22604e37a8fc8e5c7dfb0b4c.jpg,3a6a24ba22604e37a8fc8e5c7dfb0b4c,5,acne,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\fdea02279580e381c916dee8f4a279b8.jpg,fdea02279580e381c916dee8f4a279b8,2,psoriasis,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\5635e1cf125989c2ed9faa0bdfd7b981.jpg,5635e1cf125989c2ed9faa0bdfd7b981,1,psoriasis,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\402710d6e3faf2056bde80b7436f2a3a.jpg,402710d6e3faf2056bde80b7436f2a3a,6,tungiasis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\203f72e12bfd9132ba8f843eaa9a894f.jpg,203f72e12bfd9132ba8f843eaa9a894f,2,melanoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\d48cbdfbfeaeb4b329d97cdfb415650d.jpg,d48cbdfbfeaeb4b329d97cdfb415650d,2,pustular psoriasis,2 Characteristic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\8c28b5661896a1860972d031bc6f042e.jpg,8c28b5661896a1860972d031bc6f042e,3,xanthomas,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\ba3b05057183a7678520ecdebdd4f0fc.jpg,ba3b05057183a7678520ecdebdd4f0fc,4,lymphangioma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\25f6a083995ad41ed8c8017e38054c16.jpg,25f6a083995ad41ed8c8017e38054c16,4,pyogenic granuloma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\629c6d2a96d0084137cfcb51875f2c79.jpg,629c6d2a96d0084137cfcb51875f2c79,6,kaposi sarcoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\8c33df53ddc70f416cf19eab528c1748.jpg,8c33df53ddc70f416cf19eab528c1748,5,acne,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\2b0370bb6c521277542bfe286d41d4ce.jpg,2b0370bb6c521277542bfe286d41d4ce,5,lupus erythematosus,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\6d3d0fd642352395962055aa80dcc0aa.jpg,6d3d0fd642352395962055aa80dcc0aa,1,psoriasis,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\c415f065a3efe31b43697fc2b56517d4.jpg,c415f065a3efe31b43697fc2b56517d4,2,dariers disease,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\454e68bf5705eabf0f4d28fc1dbd77be.jpg,454e68bf5705eabf0f4d28fc1dbd77be,6,superficial spreading melanoma ssm,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\d2ab18002d2e78222e8d14ef2f182be0.jpg,d2ab18002d2e78222e8d14ef2f182be0,1,allergic contact dermatitis,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\9fb08948a72d4aacdd2a401136c83049.jpg,9fb08948a72d4aacdd2a401136c83049,1,calcinosis cutis,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\bcab3f76042f430163c49ceedcfd5968.jpg,bcab3f76042f430163c49ceedcfd5968,4,pityriasis rubra pilaris,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\17671141fadfbc7d358a5e2cc4b98b58.jpg,17671141fadfbc7d358a5e2cc4b98b58,1,pyogenic granuloma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\7d1118dac7ffc8b465f47641ce2c6be9.jpg,7d1118dac7ffc8b465f47641ce2c6be9,6,neutrophilic dermatoses,2 Characteristic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\babe125be18f7ba4fa8a2f7eafce4693.jpg,babe125be18f7ba4fa8a2f7eafce4693,4,nevocytic nevus,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\2e3b410b4c54081cac94ccfa3f9f8c8b.jpg,2e3b410b4c54081cac94ccfa3f9f8c8b,6,dermatomyositis,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\a8d1e541c8fcaf013375a51153570ed1.jpg,a8d1e541c8fcaf013375a51153570ed1,1,mycosis fungoides,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\bc578ce738482dd8f76af0c5ef32bca6.jpg,bc578ce738482dd8f76af0c5ef32bca6,3,squamous cell carcinoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\68c69c85697f1ec918b8061e23b21e70.jpg,68c69c85697f1ec918b8061e23b21e70,4,scabies,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\257785e2595917e0d7fdc098d8757136.jpg,257785e2595917e0d7fdc098d8757136,1,lyme disease,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\b1fed8d980864611cd0a7cc0b77035ab.jpg,b1fed8d980864611cd0a7cc0b77035ab,3,mucinosis,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\147096ef324c69c708c229922a8ff7a1.jpg,147096ef324c69c708c229922a8ff7a1,5,papilomatosis confluentes and reticulate,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\1d16cdcae707d5b6a41be8d2b22b9c96.jpg,1d16cdcae707d5b6a41be8d2b22b9c96,6,acanthosis nigricans,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\0642bcf521c505cbf7f2968c9f18ba8d.jpg,0642bcf521c505cbf7f2968c9f18ba8d,2,psoriasis,2 Characteristic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\f9ad129c5763ec428d874b94ee3a46ae.jpg,f9ad129c5763ec428d874b94ee3a46ae,1,stasis edema,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\c22e0123bedf644cd7f17ef8508858e9.jpg,c22e0123bedf644cd7f17ef8508858e9,4,tuberous sclerosis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\fcb7c9a72a96211facd7a155ddf74678.jpg,fcb7c9a72a96211facd7a155ddf74678,5,erythema elevatum diutinum,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\f13fd565a23a94e85620881e2ba88b6a.jpg,f13fd565a23a94e85620881e2ba88b6a,2,psoriasis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\e9f7200bf0e05840aebe6c1b748195fa.jpg,e9f7200bf0e05840aebe6c1b748195fa,4,sarcoidosis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\6a40c6fe83ffcb3f64b9a5b72ff54940.jpg,6a40c6fe83ffcb3f64b9a5b72ff54940,4,folliculitis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\419bb3a812387ab2c3746892eb3226c7.jpg,419bb3a812387ab2c3746892eb3226c7,4,lupus erythematosus,4 Other,low
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\064e4ae9d102f045fd5dedcd81b7ad1d.jpg,064e4ae9d102f045fd5dedcd81b7ad1d,2,urticaria pigmentosa,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\d831cf61e9fbfa1ae95be933d135c54f.jpg,d831cf61e9fbfa1ae95be933d135c54f,2,photodermatoses,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\d00b2593bb28015fb1f10e3c4cf51c02.jpg,d00b2593bb28015fb1f10e3c4cf51c02,2,livedo reticularis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\81d85b24e58909760740b2519e58b5ee.jpg,81d85b24e58909760740b2519e58b5ee,1,squamous cell carcinoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\883d97abfb9968464d411057b86522ab.jpg,883d97abfb9968464d411057b86522ab,1,urticaria pigmentosa,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\e502602902bb69fde51dd8185b272992.jpg,e502602902bb69fde51dd8185b272992,1,squamous cell carcinoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\673023e413bd6c13a22159b7404ee356.jpg,673023e413bd6c13a22159b7404ee356,1,vitiligo,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\8e0dbc65555eca9b01e3e3782569b71c.jpg,8e0dbc65555eca9b01e3e3782569b71c,4,lupus erythematosus,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\087b009712d1ee2c7c6fb1337e2f522d.jpg,087b009712d1ee2c7c6fb1337e2f522d,1,neurofibromatosis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\8a5931dd3a26bfcfafdd8b1c1b49dd92.jpg,8a5931dd3a26bfcfafdd8b1c1b49dd92,2,epidermal nevus,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\9954afd27ce8e5cf2f46133be296107d.jpg,9954afd27ce8e5cf2f46133be296107d,5,squamous cell carcinoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\1d3ec031cb07ce74750c2f6b7e996f72.jpg,1d3ec031cb07ce74750c2f6b7e996f72,4,papilomatosis confluentes and reticulate,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\fb29c9c1bdf3ee85d8d4123408e72054.jpg,fb29c9c1bdf3ee85d8d4123408e72054,6,xeroderma pigmentosum,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\9f47b046ff166b0900b4c19daf32b8da.jpg,9f47b046ff166b0900b4c19daf32b8da,4,disseminated actinic porokeratosis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\d56c9c7c3062e53f5b7e3c0fdebf6741.jpg,d56c9c7c3062e53f5b7e3c0fdebf6741,5,drug eruption,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\802ac1175b149226802b7caab0497857.jpg,802ac1175b149226802b7caab0497857,4,keloid,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\d1c324b2709c29998b8ccf7ace7c57b1.jpg,d1c324b2709c29998b8ccf7ace7c57b1,2,pityriasis rubra pilaris,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\95cc60fa224b0804920275d6aac6689d.jpg,95cc60fa224b0804920275d6aac6689d,5,ichthyosis vulgaris,2 Characteristic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\5c9fc67d93bf2a80d873fca0446edd1f.jpg,5c9fc67d93bf2a80d873fca0446edd1f,2,ehlers danlos syndrome,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\5d3a9ca41e7c3cbe9f79b159a36e5f84.jpg,5d3a9ca41e7c3cbe9f79b159a36e5f84,3,sun damaged skin,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\5cab9fcd7388d2579ad279923c8c1b1b.jpg,5cab9fcd7388d2579ad279923c8c1b1b,1,psoriasis,2 Characteristic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\88dbcd1c90e1c55477d80ac6bab2f3c1.jpg,88dbcd1c90e1c55477d80ac6bab2f3c1,2,keratosis pilaris,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\3aed5185b51f45442ea73cc33bc78eb1.jpg,3aed5185b51f45442ea73cc33bc78eb1,1,lentigo maligna,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\c7069d5f02bf984a85632695995fe410.jpg,c7069d5f02bf984a85632695995fe410,1,photodermatoses,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\e8285c130b3a6222eb95f7d63dd6db82.jpg,e8285c130b3a6222eb95f7d63dd6db82,6,ichthyosis vulgaris,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\50c8370774d8642aa196cc9e05cfb0d7.jpg,50c8370774d8642aa196cc9e05cfb0d7,1,erythema multiforme,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\72bc638c452173c9fe858e6c3f9c1548.jpg,72bc638c452173c9fe858e6c3f9c1548,2,rhinophyma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\8d7d69353979c66faac2f9e5fbdfe348.jpg,8d7d69353979c66faac2f9e5fbdfe348,2,seborrheic keratosis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\6fa562e207d7c7d3ad9c920e84637f8e.jpg,6fa562e207d7c7d3ad9c920e84637f8e,6,scleroderma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\0a9efbd68b5291a8cb4e755763da3fda.jpg,0a9efbd68b5291a8cb4e755763da3fda,3,rhinophyma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\c7fabd8f3bd44635f9254ebad77378cf.jpg,c7fabd8f3bd44635f9254ebad77378cf,1,cheilitis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\1a319021fb0ec1fb31a4def1f26a20ab.jpg,1a319021fb0ec1fb31a4def1f26a20ab,3,xanthomas,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\4f2789306cc2ca41d5c3d0b45d8e5c42.jpg,4f2789306cc2ca41d5c3d0b45d8e5c42,4,drug eruption,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\c94ce27e389f96bda998e7c3fa5c4a2e.jpg,c94ce27e389f96bda998e7c3fa5c4a2e,5,keloid,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\c2ba787029af2c423b039759c0f7dc97.jpg,c2ba787029af2c423b039759c0f7dc97,1,hidradenitis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\8b1afa8ed98d4ffc6a40054adf6f5848.jpg,8b1afa8ed98d4ffc6a40054adf6f5848,4,epidermolysis bullosa,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\a61103096131b0e2673f234acd53ed26.jpg,a61103096131b0e2673f234acd53ed26,5,granuloma annulare,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\2474e9ed8d356c39c63e515f2086f5bb.jpg,2474e9ed8d356c39c63e515f2086f5bb,6,scabies,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\bc00bb114e7236974ea26ae39b97e563.jpg,bc00bb114e7236974ea26ae39b97e563,3,dermatomyositis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\39bd0459151b737d0333cfbc1a78dfbe.jpg,39bd0459151b737d0333cfbc1a78dfbe,1,tuberous sclerosis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\db4a08b4024363b4d2eaa3026e84e764.jpg,db4a08b4024363b4d2eaa3026e84e764,1,urticaria pigmentosa,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\f23510d480f94688cac57996755d7ee8.jpg,f23510d480f94688cac57996755d7ee8,3,folliculitis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\a012732fd2caf22e3168ea643b0df97e.jpg,a012732fd2caf22e3168ea643b0df97e,2,superficial spreading melanoma ssm,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\e7b0758bb1caca32aa6b42b2fd03afae.jpg,e7b0758bb1caca32aa6b42b2fd03afae,1,scleromyxedema,2 Characteristic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\84f75c6da21686206f64b40ba5135716.jpg,84f75c6da21686206f64b40ba5135716,1,lentigo maligna,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\f34b3c5adb231aefdbd6e904a4f324c5.jpg,f34b3c5adb231aefdbd6e904a4f324c5,1,tuberous sclerosis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\9b0a8bf1ad55bab5a7417ac14dd95ae7.jpg,9b0a8bf1ad55bab5a7417ac14dd95ae7,3,granuloma annulare,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\86cd7e56103deaff8d7d02b319ea316a.jpg,86cd7e56103deaff8d7d02b319ea316a,2,eczema,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\5bb937e7eea1646428be5837d79a7b4f.jpg,5bb937e7eea1646428be5837d79a7b4f,4,scleroderma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\7c0afdc2ef8b209b9a1b8b43b58a630c.jpg,7c0afdc2ef8b209b9a1b8b43b58a630c,3,sarcoidosis,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\e0eaed6f7436ec22aa9e747d1173973e.jpg,e0eaed6f7436ec22aa9e747d1173973e,4,scleroderma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\073855fe43184e4d1d8045c09e7df53c.jpg,073855fe43184e4d1d8045c09e7df53c,2,nevus sebaceous of jadassohn,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\8fbf2b24bcb94347182dd4a177d12e0d.jpg,8fbf2b24bcb94347182dd4a177d12e0d,3,photodermatoses,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\0cff6f3c9bb267f68c77740fc9c58587.jpg,0cff6f3c9bb267f68c77740fc9c58587,4,acne,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\bb650d9c694bc111fb91aeb4e153844c.jpg,bb650d9c694bc111fb91aeb4e153844c,4,lupus erythematosus,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\db7e9dd8865e72f5b204efc38c70e2f0.jpg,db7e9dd8865e72f5b204efc38c70e2f0,2,perioral dermatitis,2 Characteristic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\c80a8a398a962af22f95e0a83947e924.jpg,c80a8a398a962af22f95e0a83947e924,1,scleroderma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\82df6f86fb44e6267df25ec480a48966.jpg,82df6f86fb44e6267df25ec480a48966,3,erythema multiforme,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\8dce6823c51ba27908e26d3aa9455e1d.jpg,8dce6823c51ba27908e26d3aa9455e1d,1,nevocytic nevus,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\9b80bb011a2ae3f741c6c1af12ec34e9.jpg,9b80bb011a2ae3f741c6c1af12ec34e9,1,congenital nevus,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\9dd7a74466053926b7ec656b3f8a10d1.jpg,9dd7a74466053926b7ec656b3f8a10d1,2,actinic keratosis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\e330d92c592d7865e93658aca6a51323.jpg,e330d92c592d7865e93658aca6a51323,2,squamous cell carcinoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\4cb85832b363c5ce55d9f52db1157171.jpg,4cb85832b363c5ce55d9f52db1157171,4,acne vulgaris,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\c59e08e62fb00753b5857d0aa3bb0d3f.jpg,c59e08e62fb00753b5857d0aa3bb0d3f,2,solid cystic basal cell carcinoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\5ab3301d14464699215602d4b0820ea2.jpg,5ab3301d14464699215602d4b0820ea2,1,behcets disease,2 Characteristic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\cca4d6cb306087ac189ba9d1e14958cb.jpg,cca4d6cb306087ac189ba9d1e14958cb,2,granuloma pyogenic,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\5beb31687f4de355df50d258d42a57fb.jpg,5beb31687f4de355df50d258d42a57fb,6,factitial dermatitis,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\ab0102ea9df4cc60043a856a8fb3bf0e.jpg,ab0102ea9df4cc60043a856a8fb3bf0e,5,sarcoidosis,2 Characteristic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\17397316eaf76b6451d6c24019420e3e.jpg,17397316eaf76b6451d6c24019420e3e,6,sarcoidosis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\41430e48da89e84262c966712a38fe0f.jpg,41430e48da89e84262c966712a38fe0f,3,rosacea,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\6a497fe1215168dead18364cc9d1c954.jpg,6a497fe1215168dead18364cc9d1c954,2,scleroderma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\6dba48622336596a9576d587ce702142.jpg,6dba48622336596a9576d587ce702142,3,kaposi sarcoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\21cd27749b88c6c54e52d70f316662d7.jpg,21cd27749b88c6c54e52d70f316662d7,3,lyme disease,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\4ee18f789cecf807e4672b12a39a6f5c.jpg,4ee18f789cecf807e4672b12a39a6f5c,2,stasis edema,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\5764770ce682179502f97d444c6b8f93.jpg,5764770ce682179502f97d444c6b8f93,5,drug eruption,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\91a12e788fd4ca96c27901977188fbca.jpg,91a12e788fd4ca96c27901977188fbca,5,tuberous sclerosis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\c85b4af0bf6b04ddaac723ae723809d7.jpg,c85b4af0bf6b04ddaac723ae723809d7,3,scleromyxedema,4 Other,low
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\24e68a7210b0f24b8bfb1f332d187777.jpg,24e68a7210b0f24b8bfb1f332d187777,3,folliculitis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\4f8b6125a70eca2c31388cf3a8c4f203.jpg,4f8b6125a70eca2c31388cf3a8c4f203,3,squamous cell carcinoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\c524bf65bc13a3ceb9773df615506de5.jpg,c524bf65bc13a3ceb9773df615506de5,3,pityriasis lichenoides chronica,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\702efb84bdc6e14a4222d6d001535a71.jpg,702efb84bdc6e14a4222d6d001535a71,6,pityriasis rosea,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\db758e4ced503e9e328442c25efc93f6.jpg,db758e4ced503e9e328442c25efc93f6,2,psoriasis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\8f67f4bea47d4b0b42c00eaa28ca4e7a.jpg,8f67f4bea47d4b0b42c00eaa28ca4e7a,4,necrobiosis lipoidica,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\a20530e4317dab49e5c5b26444ed7652.jpg,a20530e4317dab49e5c5b26444ed7652,6,neurofibromatosis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\374d3ae5b810686437778c5df9133448.jpg,374d3ae5b810686437778c5df9133448,6,prurigo nodularis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\fcdc74ae580c2d1e045b8976ed0d1f18.jpg,fcdc74ae580c2d1e045b8976ed0d1f18,4,neurotic excoriations,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\003dbdb6ec7741dfda46cc61aab167d7.jpg,003dbdb6ec7741dfda46cc61aab167d7,2,neutrophilic dermatoses,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\1a05e44b2688e6d7503237b82e228e12.jpg,1a05e44b2688e6d7503237b82e228e12,5,hailey hailey disease,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\3c722a81b077ef7752476f144fdf3d85.jpg,3c722a81b077ef7752476f144fdf3d85,4,drug eruption,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\6d2fcc07e77392888a0b7b063bf56bbb.jpg,6d2fcc07e77392888a0b7b063bf56bbb,4,solid cystic basal cell carcinoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\45192b4792fbb24005537e2639fd139d.jpg,45192b4792fbb24005537e2639fd139d,3,lyme disease,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\47fa534561570e0404fe643803b513ee.jpg,47fa534561570e0404fe643803b513ee,5,syringoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\95189ee05b838eae30e5e28a3e2b28cc.jpg,95189ee05b838eae30e5e28a3e2b28cc,4,actinic keratosis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\8b66ae255c9b3f43b04d5265c7baa6dc.jpg,8b66ae255c9b3f43b04d5265c7baa6dc,3,urticaria,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\126ba4ed48561892ebe1e3405c9f685c.jpg,126ba4ed48561892ebe1e3405c9f685c,1,scabies,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\3c64fc9d1d75d88cc8f4183803edc5f3.jpg,3c64fc9d1d75d88cc8f4183803edc5f3,4,acne vulgaris,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\3e32cd1f8833f3436cd77b8203feccd9.jpg,3e32cd1f8833f3436cd77b8203feccd9,2,lichen planus,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\151a8dfcb41ac03f56fc7ed909101788.jpg,151a8dfcb41ac03f56fc7ed909101788,1,langerhans cell histiocytosis,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\879a89df97337da67a64ef5771537607.jpg,879a89df97337da67a64ef5771537607,2,porokeratosis of mibelli,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\6ec85e191c512d3373971b12912cb83e.jpg,6ec85e191c512d3373971b12912cb83e,5,seborrheic dermatitis,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\ab9ce8ae592a75fbadfa25d5c5c4a591.jpg,ab9ce8ae592a75fbadfa25d5c5c4a591,3,incontinentia pigmenti,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\e750fc17a597bf4ecac3321dba9958af.jpg,e750fc17a597bf4ecac3321dba9958af,4,nevus sebaceous of jadassohn,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\a85ac102bd4003654d9f7d3b23504abc.jpg,a85ac102bd4003654d9f7d3b23504abc,4,scleromyxedema,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\095b3ee11a35a133f641cb25fafcefcd.jpg,095b3ee11a35a133f641cb25fafcefcd,5,lupus erythematosus,2 Characteristic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\398505290bac3f20522e79113cacdf3e.jpg,398505290bac3f20522e79113cacdf3e,-1,stevens johnson syndrome,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\607a198d567608b557f782ab3381cddb.jpg,607a198d567608b557f782ab3381cddb,5,disseminated actinic porokeratosis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\758c500ff6ec8a726f5ae6175689d624.jpg,758c500ff6ec8a726f5ae6175689d624,1,lentigo maligna,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\6f35899155aa073156b2571b1f01c3d8.jpg,6f35899155aa073156b2571b1f01c3d8,6,xeroderma pigmentosum,4 Other,low
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\7ab27dd82e5e58090d3243f1f8b4bc20.jpg,7ab27dd82e5e58090d3243f1f8b4bc20,1,allergic contact dermatitis,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\85321e0d847a46e0be3b156df51414d2.jpg,85321e0d847a46e0be3b156df51414d2,4,acne vulgaris,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\c36320c7946d1df5972083009ef7f7aa.jpg,c36320c7946d1df5972083009ef7f7aa,1,psoriasis,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\c36abe2db70469f33b862a4c7757c2fe.jpg,c36abe2db70469f33b862a4c7757c2fe,2,actinic keratosis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\874c2a5b78b0a50a711328258dc608ee.jpg,874c2a5b78b0a50a711328258dc608ee,6,necrobiosis lipoidica,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\1e7c9106644d4b54d11524d75d303a35.jpg,1e7c9106644d4b54d11524d75d303a35,1,seborrheic dermatitis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\0c843edc73aa0b63ec9a266b937c3a3a.jpg,0c843edc73aa0b63ec9a266b937c3a3a,3,drug eruption,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\d8f122b99779ad61a1fda1ee1cadeb84.jpg,d8f122b99779ad61a1fda1ee1cadeb84,1,scleroderma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\5217ed439faafefe05eb765bb64b7fa6.jpg,5217ed439faafefe05eb765bb64b7fa6,1,tick bite,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\c03e67e473eb780a1b5338856ac4cdbe.jpg,c03e67e473eb780a1b5338856ac4cdbe,1,scleroderma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\dd6b1892756433a699c8fea1e59f9b3e.jpg,dd6b1892756433a699c8fea1e59f9b3e,1,nevocytic nevus,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\107e238a14ead26da7464917a6a5d8a3.jpg,107e238a14ead26da7464917a6a5d8a3,3,solid cystic basal cell carcinoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\1a74229f50413b8ec98bb3d0c5f2189e.jpg,1a74229f50413b8ec98bb3d0c5f2189e,5,cheilitis,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\b693828bd104b6ed8be393d2e516ed50.jpg,b693828bd104b6ed8be393d2e516ed50,4,cheilitis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\6df4ae07d07ffbe71419d17a4fef0055.jpg,6df4ae07d07ffbe71419d17a4fef0055,6,lupus subacute,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\84993623f4cc766e19b092054f545f6b.jpg,84993623f4cc766e19b092054f545f6b,1,actinic keratosis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\1d880c5d06148a789e33af7c75cd7282.jpg,1d880c5d06148a789e33af7c75cd7282,1,scabies,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\96a83a525606eea802f6f06ba8216e5d.jpg,96a83a525606eea802f6f06ba8216e5d,6,erythema elevatum diutinum,2 Characteristic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\34ca72684487fafccfe617f7294d6938.jpg,34ca72684487fafccfe617f7294d6938,4,folliculitis,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\2cc61572d7bcf492c25a0ede978600d5.jpg,2cc61572d7bcf492c25a0ede978600d5,6,sarcoidosis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\2c4f155054e5716bca3b691c76cfecc7.jpg,2c4f155054e5716bca3b691c76cfecc7,6,pityriasis rubra pilaris,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\53f2eadf5f293c90bb3cda5fb91ec1c5.jpg,53f2eadf5f293c90bb3cda5fb91ec1c5,6,nevocytic nevus,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\d9ff106f9e37023b892152ad1c2b0f21.jpg,d9ff106f9e37023b892152ad1c2b0f21,2,kaposi sarcoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\abc5d1da3d9ae07f45043c766e0ef2e2.jpg,abc5d1da3d9ae07f45043c766e0ef2e2,6,lichen planus,2 Characteristic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\a630f3468df97e4810385eb8ff51f0b5.jpg,a630f3468df97e4810385eb8ff51f0b5,3,sarcoidosis,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\24450896c9dd873862ab2c595ef948d2.jpg,24450896c9dd873862ab2c595ef948d2,2,fixed eruptions,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\1406a350474ff7ca75c8899bb66e208c.jpg,1406a350474ff7ca75c8899bb66e208c,4,pityriasis rosea,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\18ddfa2d48b0ea0d44aacc5db88d7186.jpg,18ddfa2d48b0ea0d44aacc5db88d7186,3,port wine stain,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\d42a9167697f7c1f6486a799fb863f17.jpg,d42a9167697f7c1f6486a799fb863f17,1,basal cell carcinoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\4936fc97df3b9cd2528894eed1385c8d.jpg,4936fc97df3b9cd2528894eed1385c8d,5,drug eruption,2 Characteristic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\4dfbf7e303f023af5d8f9631575fa4e7.jpg,4dfbf7e303f023af5d8f9631575fa4e7,1,sarcoidosis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\301e6dcb22e76915c34f2136f007b0ab.jpg,301e6dcb22e76915c34f2136f007b0ab,2,port wine stain,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\a6f73a22dc647ea15c5c1654ef15d93d.jpg,a6f73a22dc647ea15c5c1654ef15d93d,6,acanthosis nigricans,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\17fe027453643b7f417c88964af2e535.jpg,17fe027453643b7f417c88964af2e535,1,calcinosis cutis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\de30dcaeb1c6d29b4c1e6dacd1136e25.jpg,de30dcaeb1c6d29b4c1e6dacd1136e25,1,epidermal nevus,2 Characteristic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\5c4a751b5566822dec99fdbcba1ead13.jpg,5c4a751b5566822dec99fdbcba1ead13,4,erythema multiforme,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\0adf95c81c80ef8b473022a203a0cb21.jpg,0adf95c81c80ef8b473022a203a0cb21,2,mycosis fungoides,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\34e3764fdf880ca93bf257948d65bdc6.jpg,34e3764fdf880ca93bf257948d65bdc6,4,nematode infection,4 Other,low
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\e99ba7397c33ba169192ffdb25b66ccf.jpg,e99ba7397c33ba169192ffdb25b66ccf,5,seborrheic keratosis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\6657abf8c252bf3bbe6940957a9aa302.jpg,6657abf8c252bf3bbe6940957a9aa302,2,eczema,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\72ef01ef7871996dd09f251ba0051e82.jpg,72ef01ef7871996dd09f251ba0051e82,1,psoriasis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\34b5d983d901815b931e28ee357ddf74.jpg,34b5d983d901815b931e28ee357ddf74,1,disseminated actinic porokeratosis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\58f4166ec79b9a80bb6a855cf0fd058a.jpg,58f4166ec79b9a80bb6a855cf0fd058a,3,acne,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\9f1eca505c94e4e4a4156e2104b3d618.jpg,9f1eca505c94e4e4a4156e2104b3d618,4,psoriasis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\75b0b005c9ba2f1f9f3a99867e627aa3.jpg,75b0b005c9ba2f1f9f3a99867e627aa3,3,neutrophilic dermatoses,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\28bcdc217a7ab7fd724ad1f1dffd6ed9.jpg,28bcdc217a7ab7fd724ad1f1dffd6ed9,6,incontinentia pigmenti,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\bb4f6bd8661b8f0a52ccaef5f2fc5b56.jpg,bb4f6bd8661b8f0a52ccaef5f2fc5b56,4,prurigo nodularis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\cb0af0fcc0e78dcd7583689ee36f95d0.jpg,cb0af0fcc0e78dcd7583689ee36f95d0,6,scleroderma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\fd14286c22b23ef54155d425c5967eed.jpg,fd14286c22b23ef54155d425c5967eed,2,acne,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\5544b56bb318b1f04775eeda252aed43.jpg,5544b56bb318b1f04775eeda252aed43,2,acne vulgaris,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\b4b4f16065125453dd72841c6247f1d3.jpg,b4b4f16065125453dd72841c6247f1d3,2,allergic contact dermatitis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\7e1b6a144d00b98d7c79f49b71adfd66.jpg,7e1b6a144d00b98d7c79f49b71adfd66,1,scleroderma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\528ea904c63bb9c90e76f7de18590bf6.jpg,528ea904c63bb9c90e76f7de18590bf6,5,drug eruption,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\3f8035587cde8c8b6d9389804e6a864b.jpg,3f8035587cde8c8b6d9389804e6a864b,4,drug eruption,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\22af984a7ffb239c451ffea0e5f47b07.jpg,22af984a7ffb239c451ffea0e5f47b07,2,tick bite,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\5aa0cfa435bebc56f8893898c2d6ecd0.jpg,5aa0cfa435bebc56f8893898c2d6ecd0,2,drug induced pigmentary changes,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\711d1b12cef5a3aaa8db2cea0838a9ad.jpg,711d1b12cef5a3aaa8db2cea0838a9ad,3,urticaria,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\96ff1c36268fb30331cbb072b61ef3a0.jpg,96ff1c36268fb30331cbb072b61ef3a0,2,sarcoidosis,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\2d23f23e74e1844af038a544c5eba0bd.jpg,2d23f23e74e1844af038a544c5eba0bd,4,vitiligo,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\01021bf7ee6a288a4eba76ed7a7bc9f0.jpg,01021bf7ee6a288a4eba76ed7a7bc9f0,4,pityriasis rubra pilaris,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\af048401c6e99acaba177eef6c43c45c.jpg,af048401c6e99acaba177eef6c43c45c,6,squamous cell carcinoma,2 Characteristic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\87b1960c3d41106f5c3e951e13314f43.jpg,87b1960c3d41106f5c3e951e13314f43,5,erythema multiforme,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\f3f094c284aa64a78560966b33298812.jpg,f3f094c284aa64a78560966b33298812,3,acrodermatitis enteropathica,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\f03c8430ae6b97cb1ee43fa8c78a89af.jpg,f03c8430ae6b97cb1ee43fa8c78a89af,6,dyshidrotic eczema,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\f657da412f42c3408dbd0dd567f09340.jpg,f657da412f42c3408dbd0dd567f09340,1,photodermatoses,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\632e354ae9add53b942f5b4c21c831e3.jpg,632e354ae9add53b942f5b4c21c831e3,4,sun damaged skin,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\27e2bb3bb2dd6a45ea4cf37b98b7684e.jpg,27e2bb3bb2dd6a45ea4cf37b98b7684e,6,drug induced pigmentary changes,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\b916be56d09f0f48222f99c11dcaca62.jpg,b916be56d09f0f48222f99c11dcaca62,1,photodermatoses,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\0bf4314dcbbd58aaa76f6c3162cf14f2.jpg,0bf4314dcbbd58aaa76f6c3162cf14f2,3,vitiligo,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\43872a2cbcb0c51c12a7430c34368e69.jpg,43872a2cbcb0c51c12a7430c34368e69,6,vitiligo,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\defefc3f514c748fc7425b90defe2471.jpg,defefc3f514c748fc7425b90defe2471,6,pityriasis rubra pilaris,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\2d6abc80650978d36907bda0009c88e2.jpg,2d6abc80650978d36907bda0009c88e2,5,eczema,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\f572eb5920663d85ba8e334852415277.jpg,f572eb5920663d85ba8e334852415277,5,urticaria pigmentosa,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\e642ea55ce353ec974309c87f4da7373.jpg,e642ea55ce353ec974309c87f4da7373,5,kaposi sarcoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\26b46628697510ce0ede5851006d5c34.jpg,26b46628697510ce0ede5851006d5c34,5,halo nevus,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\a4ccb4205a5b4da52caca600ca3433f0.jpg,a4ccb4205a5b4da52caca600ca3433f0,1,mucous cyst,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\320a5a88e73a10d53cedc87f86e63941.jpg,320a5a88e73a10d53cedc87f86e63941,2,acquired autoimmune bullous diseaseherpes gestationis,4 Other,low
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\ccd8a6beabc8d6a5c8557316d31330cd.jpg,ccd8a6beabc8d6a5c8557316d31330cd,5,pityriasis rosea,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\300569f875a5532ab4ad41ab72362fa6.jpg,300569f875a5532ab4ad41ab72362fa6,2,psoriasis,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\185e314d07eafe93c1719f14cb86b84f.jpg,185e314d07eafe93c1719f14cb86b84f,4,fixed eruptions,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\d426cd06dab461c27fac4964b9865769.jpg,d426cd06dab461c27fac4964b9865769,3,actinic keratosis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\9dccb89ae8b15e7b9063318022608d70.jpg,9dccb89ae8b15e7b9063318022608d70,2,acne vulgaris,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\dc4852bdb88ee7e126d9d2078cdb1612.jpg,dc4852bdb88ee7e126d9d2078cdb1612,1,allergic contact dermatitis,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\3f63bed5ecf2e68fc8dcec4eec6d9e54.jpg,3f63bed5ecf2e68fc8dcec4eec6d9e54,4,scleroderma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\826ef5bf00af9a6e0c1c9fbb00a0409b.jpg,826ef5bf00af9a6e0c1c9fbb00a0409b,4,stasis edema,2 Characteristic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\b6958a50d2d882ea481d844cac116859.jpg,b6958a50d2d882ea481d844cac116859,2,rosacea,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\36c06991590a2d8d85b0ad296df30891.jpg,36c06991590a2d8d85b0ad296df30891,2,incontinentia pigmenti,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\424ca461d8e2d667d55f7af7c9fc035e.jpg,424ca461d8e2d667d55f7af7c9fc035e,1,pyogenic granuloma,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\8924ade189a80534bc61d3664afff1a4.jpg,8924ade189a80534bc61d3664afff1a4,3,behcets disease,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\c0a1ec51c9becfb27ed6795de007ec1a.jpg,c0a1ec51c9becfb27ed6795de007ec1a,1,incontinentia pigmenti,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\76a76bff57173d14debba61f9efb4757.jpg,76a76bff57173d14debba61f9efb4757,5,lichen planus,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\1ea5185ea26e965a0364a12bee5d72ec.jpg,1ea5185ea26e965a0364a12bee5d72ec,2,photodermatoses,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\228618e8e29edf3987be87fdc9e817ce.jpg,228618e8e29edf3987be87fdc9e817ce,3,porphyria,2 Characteristic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\7a93fa20c60e58eeec353e7a7e8107f5.jpg,7a93fa20c60e58eeec353e7a7e8107f5,4,necrobiosis lipoidica,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\38a9751170449533b0983421e03e5afe.jpg,38a9751170449533b0983421e03e5afe,3,keloid,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\c8f82a865ebefc3ce3cdbe5f70fbfc14.jpg,c8f82a865ebefc3ce3cdbe5f70fbfc14,5,prurigo nodularis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\5e67ff394856122c86db1372bda31de5.jpg,5e67ff394856122c86db1372bda31de5,2,lupus erythematosus,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\5add954298359b4281d027a5e03e2bd6.jpg,5add954298359b4281d027a5e03e2bd6,1,basal cell carcinoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\dfff78bbe85f081c620cc647bfe16d7d.jpg,dfff78bbe85f081c620cc647bfe16d7d,4,sarcoidosis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\15502416617d675ef40e3e358fbcb74c.jpg,15502416617d675ef40e3e358fbcb74c,2,basal cell carcinoma morpheiform,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\e841070b2bdac2518b4f2f4947cbbbb9.jpg,e841070b2bdac2518b4f2f4947cbbbb9,1,stevens johnson syndrome,2 Characteristic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\a040f6de4db09e3c01949ad13bfc330a.jpg,a040f6de4db09e3c01949ad13bfc330a,4,drug eruption,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\349d2d22009ece1c7d257dc71d7a2adf.jpg,349d2d22009ece1c7d257dc71d7a2adf,4,lichen amyloidosis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\dc257a4ada33a8ed25863f7d819aabaf.jpg,dc257a4ada33a8ed25863f7d819aabaf,3,milia,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\8dd3d1b2f951b26021cb1b6d8f42fabc.jpg,8dd3d1b2f951b26021cb1b6d8f42fabc,1,sarcoidosis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\d8df582eb1c20883a52a18e3fa043be5.jpg,d8df582eb1c20883a52a18e3fa043be5,1,lyme disease,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\f9414071a0fdd537488038b57e237966.jpg,f9414071a0fdd537488038b57e237966,6,acanthosis nigricans,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\5f636a0fbf18218e7f63c7ea5385c23b.jpg,5f636a0fbf18218e7f63c7ea5385c23b,1,drug eruption,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\1c31b43cce49c0e53349f4f1adb59b1d.jpg,1c31b43cce49c0e53349f4f1adb59b1d,3,superficial spreading melanoma ssm,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\d99a2222ae2135cf712dd65cad4fddeb.jpg,d99a2222ae2135cf712dd65cad4fddeb,6,dermatomyositis,2 Characteristic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\fd4f064b2279d8b96fdcbc6b04a5e76b.jpg,fd4f064b2279d8b96fdcbc6b04a5e76b,2,scleroderma,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\42899aead8769c1a0c7033672137a220.jpg,42899aead8769c1a0c7033672137a220,6,lymphangioma,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\2dae1092e7d8fa90a0cbd80f6ff8704f.jpg,2dae1092e7d8fa90a0cbd80f6ff8704f,2,epidermolysis bullosa,2 Characteristic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\58b8922dd00968a73322e1887d5d4863.jpg,58b8922dd00968a73322e1887d5d4863,2,allergic contact dermatitis,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\a8ef8c2e56b5b248c12f5a3571511676.jpg,a8ef8c2e56b5b248c12f5a3571511676,1,lupus subacute,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\685a7c352d2ea694d22299622267be9b.jpg,685a7c352d2ea694d22299622267be9b,4,squamous cell carcinoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\ce107ed05914bae03bdb8255006622b6.jpg,ce107ed05914bae03bdb8255006622b6,5,pityriasis rubra pilaris,2 Characteristic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\5dc03026456dc571fa37fc861a2824ac.jpg,5dc03026456dc571fa37fc861a2824ac,2,allergic contact dermatitis,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\33184eb4424abaf46843d89c4c408552.jpg,33184eb4424abaf46843d89c4c408552,6,squamous cell carcinoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\27636e10ca656290c8dfc9b238bf5a17.jpg,27636e10ca656290c8dfc9b238bf5a17,2,actinic keratosis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\cc807605c17f141b50ed2c7286381a82.jpg,cc807605c17f141b50ed2c7286381a82,2,milia,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\8b5813f940915279bed54ea5b41b9abc.jpg,8b5813f940915279bed54ea5b41b9abc,2,rosacea,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\c1bd14244956fb78e7cc6efc2575db1f.jpg,c1bd14244956fb78e7cc6efc2575db1f,1,lichen planus,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\9aac8fefb791c2ccf112c799b3d0c5b5.jpg,9aac8fefb791c2ccf112c799b3d0c5b5,2,allergic contact dermatitis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\9558b37c753f7d4c52fbc8866bc0cc78.jpg,9558b37c753f7d4c52fbc8866bc0cc78,3,lupus subacute,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\f94b06b9dd83db284af0a76a7b49e94c.jpg,f94b06b9dd83db284af0a76a7b49e94c,1,actinic keratosis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\d26899a09ac4a25f2a598d4253ef9a51.jpg,d26899a09ac4a25f2a598d4253ef9a51,1,telangiectases,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\13120dd5ad8413cb47a2fd93b38e7e4d.jpg,13120dd5ad8413cb47a2fd93b38e7e4d,2,hailey hailey disease,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\0d8457afebb67905127da37baece43d8.jpg,0d8457afebb67905127da37baece43d8,5,melanoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\7d174d796a95519616f9efd9db03c4c4.jpg,7d174d796a95519616f9efd9db03c4c4,4,photodermatoses,4 Other,low
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\01f31beeca401ea3d4c92fa3154cfc2f.jpg,01f31beeca401ea3d4c92fa3154cfc2f,3,vitiligo,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\240bb82ced2174f9ca483f93990acae9.jpg,240bb82ced2174f9ca483f93990acae9,2,eczema,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\f38ef800ff2e091ad6af7e233c0afa29.jpg,f38ef800ff2e091ad6af7e233c0afa29,2,urticaria pigmentosa,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\8469304f4c86bcba90430e4e658ebbff.jpg,8469304f4c86bcba90430e4e658ebbff,4,seborrheic keratosis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\eb526a756bb373c00f8e94ded1dae624.jpg,eb526a756bb373c00f8e94ded1dae624,3,nevocytic nevus,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\b3d1867d0e7adf50f2ad2c8f85274cbc.jpg,b3d1867d0e7adf50f2ad2c8f85274cbc,2,pustular psoriasis,2 Characteristic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\2fea6b5b90f86188f6d7532a608af27a.jpg,2fea6b5b90f86188f6d7532a608af27a,1,lupus erythematosus,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\7988e68f832bb19897674c9f9cde54fa.jpg,7988e68f832bb19897674c9f9cde54fa,3,acanthosis nigricans,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\6837fad0730bbbb1c903f70a5983c92c.jpg,6837fad0730bbbb1c903f70a5983c92c,5,xeroderma pigmentosum,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\4971e1ef279e3b55b309d335eba5da9e.jpg,4971e1ef279e3b55b309d335eba5da9e,1,epidermolysis bullosa,2 Characteristic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\eac455b33d5619941b491152ce8b0938.jpg,eac455b33d5619941b491152ce8b0938,4,stevens johnson syndrome,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\d6da17745dc1ffa645d4fc52e76a7418.jpg,d6da17745dc1ffa645d4fc52e76a7418,1,acne vulgaris,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\af09fdd711f9f22abd4e7d66a92cfcd2.jpg,af09fdd711f9f22abd4e7d66a92cfcd2,-1,psoriasis,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\e912bad5716487bf8367b8f80f490c8c.jpg,e912bad5716487bf8367b8f80f490c8c,2,factitial dermatitis,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\75ec263a2f60119eb0e1f580a7aaec12.jpg,75ec263a2f60119eb0e1f580a7aaec12,2,folliculitis,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\716e7df632b435456752cbe91cf14cde.jpg,716e7df632b435456752cbe91cf14cde,2,sarcoidosis,2 Characteristic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\e82f9780ddd8dd50227f1327d30f4bbb.jpg,e82f9780ddd8dd50227f1327d30f4bbb,6,xanthomas,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\b0a821a90fc14fb2996e9717ee37ded1.jpg,b0a821a90fc14fb2996e9717ee37ded1,2,acne vulgaris,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\87943bde6a90d59d616c400edf71f75b.jpg,87943bde6a90d59d616c400edf71f75b,2,photodermatoses,4 Other,low
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\fd2f0768f4cd5d9e8c7f80d8992b12bd.jpg,fd2f0768f4cd5d9e8c7f80d8992b12bd,3,fixed eruptions,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\af50ab88a8c27eeeed2f01a7b19d6e73.jpg,af50ab88a8c27eeeed2f01a7b19d6e73,4,sarcoidosis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\0578ee8b781ffc7af9c3fb3cd8e08f0e.jpg,0578ee8b781ffc7af9c3fb3cd8e08f0e,2,allergic contact dermatitis,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\61be413c52eb1d7dad6a93d071f7d52e.jpg,61be413c52eb1d7dad6a93d071f7d52e,2,seborrheic keratosis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\45b1463c223080a4e31c1a32bb731e5f.jpg,45b1463c223080a4e31c1a32bb731e5f,5,neurofibromatosis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\4b33075f92c8b22f008e55dac5c1b9fe.jpg,4b33075f92c8b22f008e55dac5c1b9fe,4,lupus erythematosus,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\02563f6d969fbff81604593d8cd61912.jpg,02563f6d969fbff81604593d8cd61912,5,dariers disease,2 Characteristic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\ae5dbb5d80c5ccff3104ffe0221639e8.jpg,ae5dbb5d80c5ccff3104ffe0221639e8,1,basal cell carcinoma morpheiform,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\9a9e44a002f21bb57a6786554c0991fa.jpg,9a9e44a002f21bb57a6786554c0991fa,4,syringoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\724088edb1e1f67b2bfa54c2b39f0182.jpg,724088edb1e1f67b2bfa54c2b39f0182,5,ichthyosis vulgaris,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\d02fe1ea29ed9ab2f2ded6c516dfff99.jpg,d02fe1ea29ed9ab2f2ded6c516dfff99,6,eczema,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\c7d02918ff2b35e8f0bd08f29a03c9bd.jpg,c7d02918ff2b35e8f0bd08f29a03c9bd,2,scabies,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\d9b8cf746cca440172358099d91cef15.jpg,d9b8cf746cca440172358099d91cef15,2,nevus sebaceous of jadassohn,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\299a7486bfa1f3ad86106c7382c0f082.jpg,299a7486bfa1f3ad86106c7382c0f082,2,sarcoidosis,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\2552999ac371ca60d1643512dbfaaa96.jpg,2552999ac371ca60d1643512dbfaaa96,3,psoriasis,4 Other,low
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\7a9d20013b87019f62372a31dc98ac92.jpg,7a9d20013b87019f62372a31dc98ac92,3,malignant melanoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\e9008bb829605c052477ec10727cf93a.jpg,e9008bb829605c052477ec10727cf93a,5,lupus erythematosus,2 Characteristic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\0a878d1507d8e0cfa1b9260822cf6008.jpg,0a878d1507d8e0cfa1b9260822cf6008,4,dermatomyositis,4 Other,low
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\55149479b90e4f74cdb4e84b18b2e2fb.jpg,55149479b90e4f74cdb4e84b18b2e2fb,2,milia,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\4a0bd21dd73b1d69b1cd05429673cd86.jpg,4a0bd21dd73b1d69b1cd05429673cd86,5,urticaria pigmentosa,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\4e66d9b65b4bf81189a9777167bc78ec.jpg,4e66d9b65b4bf81189a9777167bc78ec,1,basal cell carcinoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\911bd88b5ba3cd4c2852795adc819e37.jpg,911bd88b5ba3cd4c2852795adc819e37,4,folliculitis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\5080e0d5806f34bec6b2055ec21a2583.jpg,5080e0d5806f34bec6b2055ec21a2583,6,eczema,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\8c532d4615b41526220a14ce8ce5e517.jpg,8c532d4615b41526220a14ce8ce5e517,4,photodermatoses,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\a8e36f110acae0577fbfb51e6827a6d5.jpg,a8e36f110acae0577fbfb51e6827a6d5,1,photodermatoses,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\8f351cd9f1259ee3e6d522dbbf51ac7b.jpg,8f351cd9f1259ee3e6d522dbbf51ac7b,6,prurigo nodularis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\a616871a996c6434b4d9d1130870f886.jpg,a616871a996c6434b4d9d1130870f886,2,becker nevus,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\b06d3a806581e6188a42d140100d376e.jpg,b06d3a806581e6188a42d140100d376e,3,papilomatosis confluentes and reticulate,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\f8e9a5608936990a44a989cc6c37e6a4.jpg,f8e9a5608936990a44a989cc6c37e6a4,5,neurofibromatosis,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\cec2228d074378a834439f7b04aebdfd.jpg,cec2228d074378a834439f7b04aebdfd,6,vitiligo,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\b0d514fd0caba2751398c9975af40f17.jpg,b0d514fd0caba2751398c9975af40f17,2,nematode infection,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\8f5c462175468864c1d9e5bf69a252ce.jpg,8f5c462175468864c1d9e5bf69a252ce,1,psoriasis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\ff3d8b898d833420f60f085817997e1a.jpg,ff3d8b898d833420f60f085817997e1a,1,rhinophyma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\dd1706ef3de5fc42423745ab67f964db.jpg,dd1706ef3de5fc42423745ab67f964db,2,syringoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\030ab080d0a380f3f5711d981b4dba98.jpg,030ab080d0a380f3f5711d981b4dba98,2,factitial dermatitis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\8b809f8452b232eef0fbf43865b216d1.jpg,8b809f8452b232eef0fbf43865b216d1,1,langerhans cell histiocytosis,2 Characteristic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\506e30b9e4836d74bf9c467a739bc886.jpg,506e30b9e4836d74bf9c467a739bc886,6,allergic contact dermatitis,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\b1881c3f24c95c6950b3d9e131406edb.jpg,b1881c3f24c95c6950b3d9e131406edb,1,prurigo nodularis,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\7b11131e99b5e053bf85dfeed5229ab5.jpg,7b11131e99b5e053bf85dfeed5229ab5,2,pyogenic granuloma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\fe35305dffc8e83fe82398b7899c4d22.jpg,fe35305dffc8e83fe82398b7899c4d22,4,port wine stain,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\1d548487c6828ba27d4d40f803acf030.jpg,1d548487c6828ba27d4d40f803acf030,5,tungiasis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\5a1193b57e0acaf6ed8eba9184b91207.jpg,5a1193b57e0acaf6ed8eba9184b91207,6,neutrophilic dermatoses,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\695d69b730848914d293f285d150d931.jpg,695d69b730848914d293f285d150d931,4,lichen planus,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\7270099b2bb8e4b2454a5e23c5c8960b.jpg,7270099b2bb8e4b2454a5e23c5c8960b,3,basal cell carcinoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\40b50c1b1c3a3253d51c4369a6e6eb17.jpg,40b50c1b1c3a3253d51c4369a6e6eb17,-1,folliculitis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\f6e60656f07352aa4b604fd121c7b8a6.jpg,f6e60656f07352aa4b604fd121c7b8a6,2,basal cell carcinoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\73ac23918c9537a8c792938b64f779e0.jpg,73ac23918c9537a8c792938b64f779e0,4,squamous cell carcinoma,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\ac5a3fb28c091580ccc7f79c738671b4.jpg,ac5a3fb28c091580ccc7f79c738671b4,1,tungiasis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\df3ef69ba65eec92ecbda6b82e27349f.jpg,df3ef69ba65eec92ecbda6b82e27349f,5,lichen simplex,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\1ae030b1fb9f6c5297c935f510845695.jpg,1ae030b1fb9f6c5297c935f510845695,2,tungiasis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\d154ae1207ed5ea81437549e76f8e89d.jpg,d154ae1207ed5ea81437549e76f8e89d,6,neurofibromatosis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\861bf164e332111c17ea45d731798616.jpg,861bf164e332111c17ea45d731798616,4,erythema multiforme,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\151966ef80f25698a377df4ed52044ad.jpg,151966ef80f25698a377df4ed52044ad,3,pityriasis rosea,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\9a2018a15fc6f528ef529e390cec167e.jpg,9a2018a15fc6f528ef529e390cec167e,4,lichen planus,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\6f1cea03b7d8e82e852c1f95ee8a9d0f.jpg,6f1cea03b7d8e82e852c1f95ee8a9d0f,3,mycosis fungoides,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\84849da0a2698f554aae6695998728c0.jpg,84849da0a2698f554aae6695998728c0,4,lupus erythematosus,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\4636aa70443a09da047663421257d2a6.jpg,4636aa70443a09da047663421257d2a6,4,erythema nodosum,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\afd7b5c0267acf2f4bce52fcf4e8d1ee.jpg,afd7b5c0267acf2f4bce52fcf4e8d1ee,6,dariers disease,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\7581aa8e4a375c371a9a1c618a4cf5a3.jpg,7581aa8e4a375c371a9a1c618a4cf5a3,4,nematode infection,4 Other,low
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\3775d9c4eb04403518cd9a3e002a9a7b.jpg,3775d9c4eb04403518cd9a3e002a9a7b,3,tungiasis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\fd67d2f1fffe3c92e3889a4f62f0fb3c.jpg,fd67d2f1fffe3c92e3889a4f62f0fb3c,3,lichen planus,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\15b7a778bd5ba545095250abce21549c.jpg,15b7a778bd5ba545095250abce21549c,3,neutrophilic dermatoses,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\29af4d3eb184c04c90e77ddfe38b7497.jpg,29af4d3eb184c04c90e77ddfe38b7497,3,dariers disease,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\f50eeb173d4cd2ae8a261709538c4c95.jpg,f50eeb173d4cd2ae8a261709538c4c95,5,ehlers danlos syndrome,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\16da44ca4bd3c77321401f8f4ae82138.jpg,16da44ca4bd3c77321401f8f4ae82138,2,basal cell carcinoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\f37e2d17279aeb64cc2674d72291b4ae.jpg,f37e2d17279aeb64cc2674d72291b4ae,4,mycosis fungoides,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\508541cf2312e281a97c15bb8175e6a6.jpg,508541cf2312e281a97c15bb8175e6a6,4,pityriasis lichenoides chronica,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\b9a933b0f60a2a76ec71356ca41074c9.jpg,b9a933b0f60a2a76ec71356ca41074c9,2,sarcoidosis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\80f9b7913205a15a00d3bea59aae5316.jpg,80f9b7913205a15a00d3bea59aae5316,5,dariers disease,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\3c858cb386733bfbdc7fb4c16c9c0ed0.jpg,3c858cb386733bfbdc7fb4c16c9c0ed0,3,tuberous sclerosis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\fbc6e687623b68272d001ffa8762a5e4.jpg,fbc6e687623b68272d001ffa8762a5e4,5,pityriasis rosea,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\084d223d5918ec2ddae37f2f8061e23c.jpg,084d223d5918ec2ddae37f2f8061e23c,5,melanoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\1aa2927be8613c97297eae2c70ac1465.jpg,1aa2927be8613c97297eae2c70ac1465,3,langerhans cell histiocytosis,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\9b950015c022988a79291ec308d2c839.jpg,9b950015c022988a79291ec308d2c839,5,porokeratosis actinic,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\7705b9464e239ddab61705ec657ef8d7.jpg,7705b9464e239ddab61705ec657ef8d7,4,pediculosis lids,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\76a2cee8a2f410ad3ae494aededf4120.jpg,76a2cee8a2f410ad3ae494aededf4120,4,seborrheic dermatitis,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\93c3ccc320820c1ea641dc6244f03109.jpg,93c3ccc320820c1ea641dc6244f03109,5,basal cell carcinoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\0cecfe8aa964b75bfd8ab616fbf5538b.jpg,0cecfe8aa964b75bfd8ab616fbf5538b,4,dermatomyositis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\331271b9f69a5e73ae152fd56a23adab.jpg,331271b9f69a5e73ae152fd56a23adab,5,factitial dermatitis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\78b0ce00ef97b56cc0ec17ac40f0648c.jpg,78b0ce00ef97b56cc0ec17ac40f0648c,3,allergic contact dermatitis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\09fe0d7e800f83cd551f502f1f0692d8.jpg,09fe0d7e800f83cd551f502f1f0692d8,4,tuberous sclerosis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\d1c875e6a77165f9954570121a4bf7b9.jpg,d1c875e6a77165f9954570121a4bf7b9,6,nematode infection,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\f4b7b14859102eec2ac72624c4128dd0.jpg,f4b7b14859102eec2ac72624c4128dd0,5,lupus erythematosus,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\64ad852dc5e267ec279e02f7ec0b7307.jpg,64ad852dc5e267ec279e02f7ec0b7307,3,basal cell carcinoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\e3dba8c3820d5566b75322f757bf16cb.jpg,e3dba8c3820d5566b75322f757bf16cb,4,neurofibromatosis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\c44cd54c6d8aa56919fabc8ac6a9d850.jpg,c44cd54c6d8aa56919fabc8ac6a9d850,5,dariers disease,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\87e7d8db77002dbc93e116508fd87caa.jpg,87e7d8db77002dbc93e116508fd87caa,3,allergic contact dermatitis,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\70a0b051fb01abcd5cdd01bf8b6aa5da.jpg,70a0b051fb01abcd5cdd01bf8b6aa5da,4,basal cell carcinoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\6be528e219f8ce45c9782e2b05ae3c24.jpg,6be528e219f8ce45c9782e2b05ae3c24,3,basal cell carcinoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\045a04ebe8c8153226ed22c27ba8fac3.jpg,045a04ebe8c8153226ed22c27ba8fac3,4,keloid,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\fd4077da3e8aeb54185805ab8bb5cee5.jpg,fd4077da3e8aeb54185805ab8bb5cee5,2,calcinosis cutis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\a4df5fa2bab38ee98922e0fbc586b93f.jpg,a4df5fa2bab38ee98922e0fbc586b93f,5,basal cell carcinoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\8cf10abc45776d10b0fffaf90cc602bd.jpg,8cf10abc45776d10b0fffaf90cc602bd,-1,scabies,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\f5f89ea54174cd73bb8cfeed0cedaf2a.jpg,f5f89ea54174cd73bb8cfeed0cedaf2a,3,neutrophilic dermatoses,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\7f0e6a3dbe064e24656a92e377a2b54b.jpg,7f0e6a3dbe064e24656a92e377a2b54b,5,keloid,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\9eb488a5891f2a4fce1d2a930b20a3a6.jpg,9eb488a5891f2a4fce1d2a930b20a3a6,6,lichen planus,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\41a0cdda39f31a626fb90e2e06ce7e4f.jpg,41a0cdda39f31a626fb90e2e06ce7e4f,4,pityriasis rosea,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\efbcdff91845c8e31a42e5f1d15f0c64.jpg,efbcdff91845c8e31a42e5f1d15f0c64,6,scleroderma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\850f18a45b3fcbcd8b5020cc07273d91.jpg,850f18a45b3fcbcd8b5020cc07273d91,3,basal cell carcinoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\656ddb7b047d27f2028fd0ed3a182256.jpg,656ddb7b047d27f2028fd0ed3a182256,3,pediculosis lids,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\06652c77db287a49a204b9dd41ce3b99.jpg,06652c77db287a49a204b9dd41ce3b99,5,neurofibromatosis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\aad33b33ed190972cc96d5705e276a25.jpg,aad33b33ed190972cc96d5705e276a25,4,prurigo nodularis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\9092ba84d536eebb58e04eb83f380193.jpg,9092ba84d536eebb58e04eb83f380193,5,necrobiosis lipoidica,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\532b937155706b3bbe30a89e0360cd4b.jpg,532b937155706b3bbe30a89e0360cd4b,4,tuberous sclerosis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\9df7cdd1af24fcbfac8cb14cbddab1e4.jpg,9df7cdd1af24fcbfac8cb14cbddab1e4,4,scabies,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\bb08f7f37bd50c097aebe0629f93217d.jpg,bb08f7f37bd50c097aebe0629f93217d,3,lymphangioma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\e177c1b1ca76aebe0cb5c990d1bff462.jpg,e177c1b1ca76aebe0cb5c990d1bff462,6,scleroderma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\e03b0cb2606b24586b91eeb42f2aabfe.jpg,e03b0cb2606b24586b91eeb42f2aabfe,5,papilomatosis confluentes and reticulate,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\a2f2e0b2fa53e22c965dfeb876d96189.jpg,a2f2e0b2fa53e22c965dfeb876d96189,3,seborrheic dermatitis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\75c795c2fad2f6a2444c686fa5467041.jpg,75c795c2fad2f6a2444c686fa5467041,4,porokeratosis actinic,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\8870251f572212973b43392b34ae9eb8.jpg,8870251f572212973b43392b34ae9eb8,3,pediculosis lids,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\d13f055c1cee6e49064e786901a6a2fe.jpg,d13f055c1cee6e49064e786901a6a2fe,3,porokeratosis actinic,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\8480fdb2f5848d909a84b4c48015c76d.jpg,8480fdb2f5848d909a84b4c48015c76d,6,psoriasis,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\a7a0982f62d5fd6d0c3bb037fd9ac4e4.jpg,a7a0982f62d5fd6d0c3bb037fd9ac4e4,3,hailey hailey disease,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\fa6ca6c8adfb0f25499dbdec12cf4eaf.jpg,fa6ca6c8adfb0f25499dbdec12cf4eaf,3,nematode infection,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\7395a68469f19821f29444f383abd041.jpg,7395a68469f19821f29444f383abd041,3,psoriasis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\e2e1cf7d3e85b5bcbb00223931f84487.jpg,e2e1cf7d3e85b5bcbb00223931f84487,5,neurofibromatosis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\518264d189db5695195a516892b7a3f0.jpg,518264d189db5695195a516892b7a3f0,2,basal cell carcinoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\ab6f88d273564516c297046fe9ad1c81.jpg,ab6f88d273564516c297046fe9ad1c81,5,kaposi sarcoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\a372c4246bb07974d37eb3d544e6e86a.jpg,a372c4246bb07974d37eb3d544e6e86a,5,necrobiosis lipoidica,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\110ab19e268e85c3466d5d6fe16e8fd5.jpg,110ab19e268e85c3466d5d6fe16e8fd5,6,lichen simplex,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\33e5413d510f428e270b27d43e253848.jpg,33e5413d510f428e270b27d43e253848,4,pityriasis rosea,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\ac82b001c4a7158056790b014728b5e9.jpg,ac82b001c4a7158056790b014728b5e9,4,basal cell carcinoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\97e86e483f1a77f93c7791310d4687bd.jpg,97e86e483f1a77f93c7791310d4687bd,3,syringoma,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\6b0329c0d82261f3dbd7164cd6d98cea.jpg,6b0329c0d82261f3dbd7164cd6d98cea,3,ehlers danlos syndrome,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\6b3bedc79a1599a22805e00ad50130ea.jpg,6b3bedc79a1599a22805e00ad50130ea,4,dariers disease,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\9a4af186bb85056292ff83dafe1c0dd6.jpg,9a4af186bb85056292ff83dafe1c0dd6,5,naevus comedonicus,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\2674e2f874182dcecf7a012ebd6ed21e.jpg,2674e2f874182dcecf7a012ebd6ed21e,5,erythema multiforme,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\67c9271813f07f5311e2cb435a817403.jpg,67c9271813f07f5311e2cb435a817403,2,basal cell carcinoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\dcfb69a1fdb9f245b32d2960021402c1.jpg,dcfb69a1fdb9f245b32d2960021402c1,3,folliculitis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\6acc1c5c5c372df971b3c4f27ca1e944.jpg,6acc1c5c5c372df971b3c4f27ca1e944,6,dariers disease,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\62def66062d6648a61d4003c4b8ddfd2.jpg,62def66062d6648a61d4003c4b8ddfd2,4,basal cell carcinoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\29a86d89608e63ccfc57b1e40c827ead.jpg,29a86d89608e63ccfc57b1e40c827ead,4,melanoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\f3c89dc53032f4abdadce712829206fd.jpg,f3c89dc53032f4abdadce712829206fd,6,lichen planus,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\4fcc99459367a1e390c188e5f40fbfe7.jpg,4fcc99459367a1e390c188e5f40fbfe7,6,vitiligo,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\267518e9fd4adadae0b28dd8edb0d328.jpg,267518e9fd4adadae0b28dd8edb0d328,6,scleroderma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\2fc16d5e49a3a6eae37247501df47ec4.jpg,2fc16d5e49a3a6eae37247501df47ec4,4,hailey hailey disease,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\6ee0c806a46bf18daa0c5dae20c652eb.jpg,6ee0c806a46bf18daa0c5dae20c652eb,4,dariers disease,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\ae46f14881395aa37187f93d20a1fc8a.jpg,ae46f14881395aa37187f93d20a1fc8a,4,vitiligo,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\1ab04144c59873b97ebd997839bf3960.jpg,1ab04144c59873b97ebd997839bf3960,1,mycosis fungoides,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\9902aff379c7e84d797c4ea49c697137.jpg,9902aff379c7e84d797c4ea49c697137,4,porokeratosis actinic,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\aa66ef79c68444921757269741825c39.jpg,aa66ef79c68444921757269741825c39,5,lichen planus,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\ee4dd7123ca22643d61fe5eae9729fb3.jpg,ee4dd7123ca22643d61fe5eae9729fb3,4,pityriasis rubra pilaris,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\a127db0a5ff8c040a406230386a58ac4.jpg,a127db0a5ff8c040a406230386a58ac4,2,neutrophilic dermatoses,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\416c92410751b77fe8df8eaac6d6ac4b.jpg,416c92410751b77fe8df8eaac6d6ac4b,6,scleroderma,2 Characteristic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\10240a8f11dcae2a2ee93acb7a2b438e.jpg,10240a8f11dcae2a2ee93acb7a2b438e,4,acanthosis nigricans,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\d1d2d9e42d383826928e9a0b4b4da308.jpg,d1d2d9e42d383826928e9a0b4b4da308,6,stasis edema,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\ee551b7ed9f573467811400e6fe38ba4.jpg,ee551b7ed9f573467811400e6fe38ba4,4,lupus erythematosus,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\d549fced4cbe4c66d4aae08197554e5a.jpg,d549fced4cbe4c66d4aae08197554e5a,4,acanthosis nigricans,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\ba2f8bd1ad8fc1e227bf6db6a397367f.jpg,ba2f8bd1ad8fc1e227bf6db6a397367f,3,pediculosis lids,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\a15efe8bd5fde0701b9fffb3b4d0c9e5.jpg,a15efe8bd5fde0701b9fffb3b4d0c9e5,6,lichen planus,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\96e320998184af49bfc791c8f1b0e174.jpg,96e320998184af49bfc791c8f1b0e174,3,melanoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\1849e5ff7c6f59ee48547eb5920b4767.jpg,1849e5ff7c6f59ee48547eb5920b4767,3,lichen planus,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\1e743a818cf4d2719779df609ad8e17c.jpg,1e743a818cf4d2719779df609ad8e17c,3,syringoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\621e3bf338b5f526919f5987f0d593df.jpg,621e3bf338b5f526919f5987f0d593df,4,allergic contact dermatitis,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\f39fbfe4a06b846e7ed8008dcc2f2b8f.jpg,f39fbfe4a06b846e7ed8008dcc2f2b8f,3,lichen planus,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\ac7559de90af0e164c64965ca3b49592.jpg,ac7559de90af0e164c64965ca3b49592,2,lupus erythematosus,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\febd71380d3b0d74982030f888779412.jpg,febd71380d3b0d74982030f888779412,4,ehlers danlos syndrome,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\1ea3a50525669e266c9f09165c2807f4.jpg,1ea3a50525669e266c9f09165c2807f4,3,syringoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\cb76f16f3f4f1f0448916a0946472ed1.jpg,cb76f16f3f4f1f0448916a0946472ed1,4,neutrophilic dermatoses,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\14c1d65a2ad46d5efc6ad714224483ee.jpg,14c1d65a2ad46d5efc6ad714224483ee,3,squamous cell carcinoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\5e14cb4533baceee678c6b667706c41c.jpg,5e14cb4533baceee678c6b667706c41c,4,pityriasis rubra pilaris,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\fe1b233e940594302c83ac065ba81753.jpg,fe1b233e940594302c83ac065ba81753,4,urticaria pigmentosa,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\839227622c0d01584ad3732c155a2d37.jpg,839227622c0d01584ad3732c155a2d37,5,pityriasis rubra pilaris,2 Characteristic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\e2d0f7a666d346a7f149185b23a42483.jpg,e2d0f7a666d346a7f149185b23a42483,3,basal cell carcinoma,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\3699203b3ac79d2c30f65eca7fa35dae.jpg,3699203b3ac79d2c30f65eca7fa35dae,3,mucinosis,5 Potentially,medium
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\8eb074ec464733f3a583af942fee9a14.jpg,8eb074ec464733f3a583af942fee9a14,4,prurigo nodularis,1 Diagnostic,high
+D:\YJ-Agent\data\raw\fitzpatrick17k\New folder\background removed\77ff4dccc56baa53ba9ec3b95b5aa8fb.jpg,77ff4dccc56baa53ba9ec3b95b5aa8fb,5,lichen planus,5 Potentially,medium
