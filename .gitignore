@@ -32,7 +32,9 @@ runs/
 .env
 .env.*
 .mcp.json
-.claude/
+.claude/settings.local.json
+.claude/scheduled_tasks.lock
+.claude/biwi_osnet_x1_0/
 
 # 系统
 .DS_Store

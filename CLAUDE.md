@@ -79,3 +79,58 @@
 - 阶段五：`D:\YJ-Agent\project\plans\phase_05_agent.md`
 - 阶段六：`D:\YJ-Agent\project\plans\phase_06_benchmark.md`
 - 阶段七：`D:\YJ-Agent\project\plans\phase_07_paper.md`
+
+---
+
+## 实验运行流水线（run-experiment skill）
+
+### 触发方式
+
+每次要跑训练实验，必须用 `/loop` 前缀触发（不是普通命令）：
+
+```
+/loop /run-experiment src/train_visiscore.py configs/visiscore.yaml
+```
+
+`/loop` 是必须的——5 分钟自动检查依赖 ScheduleWakeup，而 ScheduleWakeup 只在 loop dynamic 模式下有效。
+
+### 流程概述
+
+1. **pytest 测试**：有失败会询问是否继续
+2. **Haiku agent 启动**：省 token，机械性地启动进程 + 写状态文件
+3. **Monitor 实时可视化**：训练输出流式显示在会话里，不是黑盒后台
+4. **每 270 秒自动检查**：Haiku agent 解析 epoch/loss，检查进程存活
+5. **自动修复**（小问题，最多 3 次）：OOM / 路径 / 参数 / wandb 断线
+6. **上报用户**（大问题）：架构 shape 不匹配 / NaN / 数据格式 / 未知崩溃
+
+### 自动修复规则
+
+| 错误 | 触发关键词 | 自动处理 |
+|------|-----------|---------|
+| OOM | CUDA out of memory | batch_size 减半，带 --resume 重启 |
+| 路径不存在 | FileNotFoundError | mkdir -p 缺失目录，重启 |
+| Config 非法字段 | ConfigAttributeError | 删除非法字段，重启 |
+| wandb 连接失败 | wandb: ERROR | WANDB_MODE=disabled，重启 |
+
+### 需要人工介入的情况
+
+- `arch`：模型维度不匹配（mat1 and mat2 shapes / size mismatch）
+- `data_format`：DataLoader 输出格式与模型不符
+- `nan`：loss 变 NaN（学习率/数据问题）
+- `import`：缺少依赖（ModuleNotFoundError）
+- `unknown`：进程死亡但无法归类
+
+### 训练脚本日志格式约定
+
+为了让自动检查能正确解析进度，**每个 epoch 结束必须 print**：
+
+```python
+print(f"Epoch [{epoch}/{total_epochs}] loss: {avg_loss:.4f} val_plcc: {plcc:.4f}")
+```
+
+这是 Haiku agent 解析进度的唯一依据，不要改这个格式。其他指标可以额外打印，但这行必须有。
+
+### 状态文件
+
+实验状态持久化在 `D:/YJ-Agent/log/experiment_state.json`。
+如果 loop 被意外中断（如关闭终端），重新运行 `/loop /run-experiment ...` 时 skill 会读取现有状态，若进程还存活则直接进入检查循环恢复监控。
