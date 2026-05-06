@@ -9,6 +9,30 @@ data:
   num_workers: 4
   pin_memory: true
 
+# ── 退化模拟（阶段二） ────────────────────────────────────────────────
+degradation:
+  levels: [light, medium, heavy]
+  target_size: 256
+  seed: 42
+  light:
+    blur_sigma: 0.8
+    brightness_range: [0.85, 1.0]
+    jpeg_quality: [75, 90]
+    crop_ratio: [0.90, 1.0]
+    color_shift: 0.05
+  medium:
+    blur_sigma: 1.5
+    brightness_range: [0.65, 0.85]
+    jpeg_quality: [50, 74]
+    crop_ratio: [0.75, 0.89]
+    color_shift: 0.12
+  heavy:
+    blur_sigma: 2.5
+    brightness_range: [0.40, 0.64]
+    jpeg_quality: [20, 49]
+    crop_ratio: [0.55, 0.74]
+    color_shift: 0.22
+
 # ── 模型 ──────────────────────────────────────────────────────────────
 model:
   backbone: mobilenetv3_large_100            # timm 模型名，阶段三确定后更新
